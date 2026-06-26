@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Databricks
+.databricks/
+
+# dbt
+dbt/target/
+dbt/logs/
+dbt/.user.yml
+
+# Data — never commit raw data to Git
+data/raw/*.csv
+data/raw/*.zip
+data/processed/
+
+# OS
+.DS_Store
+Thumbs.db
