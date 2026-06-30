@@ -35,7 +35,7 @@ Real commercial data from Olist, a Brazilian e-commerce marketplace.
 - [x] Milestone 1 — Environment setup, Bronze ingestion
 - [x] Milestone 2 — Silver layer, data quality checks
 - [x] Milestone 3 — Gold layer, dbt transformations
-- [ ] Milestone 4 — MLflow + churn prediction model
+- [x] Milestone 4 — MLflow + churn prediction model
 - [ ] Milestone 5 — Tableau dashboards
 
 ## Author
